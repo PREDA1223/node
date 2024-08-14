@@ -1,0 +1,15 @@
+{
+  "name": "preda",
+  "version": "1.0.0",
+  "description": "node class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "precious",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "generate-password": "^1.7.1"
+  }
+}
